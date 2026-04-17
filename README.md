@@ -1,5 +1,5 @@
 # Retail-Sales-Overview-Dashboard
-<img width="896" height="505" alt="Screenshot 2026-04-17 at 5 44 31 PM" src="https://github.com/user-attachments/assets/22d2a6f1-baf1-4594-b65c-d54ecf338dfe" />
+<put dashboard here>
 
 ## Project Summary
 This project showcases an interactive Sales Overview Dashboard (Retail) built in Power BI to analyze sales, profit, customer segments, customer satisfaction, and operational trends.
