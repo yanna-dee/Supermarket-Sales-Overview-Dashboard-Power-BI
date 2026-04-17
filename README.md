@@ -57,3 +57,15 @@ To provide a centralized view of key sales metrics and answer critical business 
 - Data Modeling: Structuring datasets for efficient analysis
 - Business Analysis: Translating data into actionable insights
 - Dashboard Design: Prioritizing usability and storytelling
+
+## How to Use
+- Select a metric (Sales, Profit, Cost, Quantity) to update all visuals
+- Apply the city filter to drill into regional performance
+- Explore trends and category breakdowns through interactive visuals
+
+## References
+This project uses the "Supermarket Sales Dataset" from Kaggle.
+
+Fares A. (2024). Supermarket Sales Dataset. Kaggle. Retrieved from https://www.kaggle.com/datasets/faresashraf1001/supermarket-sales
+
+Design inspo: "Sample Superstore - Sales Performance" by Pradeep Kumar G
