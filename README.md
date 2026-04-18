@@ -27,7 +27,7 @@ To provide a centralized view of key sales metrics and answer critical business 
 - Insight: Opportunity to expand loyalty programs and retention strategies
 
 ### Customer Rating
-- Average Customer is 7.0
+- Average Customer Rating is 7.0
 - Insight: Investigate drivers of lower ratings (e.g., product quality, merchandising, demand alignment, customer service) to improve overall customer satisfaction
 
 ### Product Line Performance
