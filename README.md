@@ -1,4 +1,4 @@
-# Retail Sales Overview Dashboard (Power BI)
+# Supermarket Sales Overview Dashboard (Power BI)
 <img width="894" height="503" alt="Screenshot 2026-04-17 at 6 48 14 PM" src="https://github.com/user-attachments/assets/3cc5f03c-665b-438c-bf8e-c261ca75764b" />
 
 ## Project Summary
