@@ -19,7 +19,7 @@ To provide a centralized view of key sales metrics and answer critical business 
 - COGS: $308K
 - Orders: 1,000
 - Avg. Quantity per Order: 6
-- Avg. Customer Rating: 7.0
+- Avg. Customer Rating: 7.0 (highest rating is 10.0)
 
 ## Key Insights and Analysis
 ### Member vs Non-Members
