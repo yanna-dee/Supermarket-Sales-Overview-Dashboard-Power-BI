@@ -2,9 +2,9 @@
 <img width="894" height="503" alt="Screenshot 2026-04-17 at 6 48 14 PM" src="https://github.com/user-attachments/assets/3cc5f03c-665b-438c-bf8e-c261ca75764b" />
 
 ## Project Summary
-This project showcases an interactive Sales Overview Dashboard built in Power BI to analyze sales, profit, customer segments, customer rating, and operational trends of a Myanmarr supermarket store in the first quarter of 2019.
+This project presents an interactive Sales Overview Dashboard built in Power BI, designed to analyze sales performance, profitability, customer segments, customer satisfaction, and operational trends for a Myanmar-based supermarket in Q1 2019.
 
-Designed with a data analyst’s workflow in mind, the dashboard transforms raw transactional data into actionable insights that support business decision-making across sales, marketing, and operations.
+The dashboard converts raw transactional data into clear, actionable insights, supporting data-driven decision-making across key business functions such as sales, marketing, and operations.
 
 ## Business Objective
 To provide a centralized view of key sales metrics and answer critical business questions:
